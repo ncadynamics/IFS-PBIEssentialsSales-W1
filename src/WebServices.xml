@@ -73,5 +73,23 @@
             <ObjectID>70272063</ObjectID>
             <Published>true</Published>
         </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>DimensionSetEntry</ServiceName>
+            <ObjectID>70272062</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>SalesHeader</ServiceName>
+            <ObjectID>70272061</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>SalesLine</ServiceName>
+            <ObjectID>70272060</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
     </TenantWebServiceCollection>
 </ExportedData>

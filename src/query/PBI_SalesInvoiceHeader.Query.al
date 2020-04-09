@@ -20,6 +20,12 @@ query 70272066 "NCA PBI_Sales Invoice Header"
             column(Shortcut_Dimension_1_Code; "Shortcut Dimension 1 Code")
             {
             }
+            column(Order_Date; "Order Date")
+            {
+            }
+            column(Document_Date; "Document Date")
+            {
+            }
         }
     }
 }

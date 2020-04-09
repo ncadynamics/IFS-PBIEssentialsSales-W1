@@ -41,6 +41,15 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             column(Unit_Cost; "Unit Cost")
             {
             }
+            column(Unit_Price; "Unit Price")
+            {
+            }
+            column(Amount_Including_VAT; "Amount Including VAT")
+            {
+            }
+            column(Dimension_Set_ID; "Dimension Set ID")
+            {
+            }
         }
     }
 }

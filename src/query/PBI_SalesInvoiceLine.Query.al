@@ -41,6 +41,15 @@ query 70272065 "NCA PBI_Sales Invoice Line"
             column(Quantity_Base; "Quantity (Base)")
             {
             }
+            column(Unit_Price; "Unit Price")
+            {
+            }
+            column(Amount_Including_VAT; "Amount Including VAT")
+            {
+            }
+            column(Dimension_Set_ID; "Dimension Set ID")
+            {
+            }
         }
     }
 }

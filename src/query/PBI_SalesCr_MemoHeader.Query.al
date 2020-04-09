@@ -20,6 +20,9 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             column(Shortcut_Dimension_1_Code; "Shortcut Dimension 1 Code")
             {
             }
+            column(Document_Date; "Document Date")
+            {
+            }
         }
     }
 }

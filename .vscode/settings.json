@@ -1,8 +1,22 @@
 {
-    "al.enableCodeAnalysis": true,
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>-Ext.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>-PageCust.al",
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.ObjectNamePrefix": "NCA ",
+    "CRS.RenameWithGit": true,
     "al.codeAnalyzers": [
         "${UICop}",
         "${CodeCop}",
         "${PerTenantExtensionCop}"
+    ],
+    "al.ruleSetPath": ".codeAnalysis\\NCA.ruleset.json",
+    "editor.formatOnSave": true,
+    "al.backgroundCodeAnalysis": false,
+    "al.enableCodeAnalysis": false,
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "c:/Windows/assembly/"
     ]
 }
