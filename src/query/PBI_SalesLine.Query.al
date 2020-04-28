@@ -42,6 +42,30 @@ query 70272060 "NCA PBI_Sales Line"
             column(Dimension_Set_ID; "Dimension Set ID")
             {
             }
+            column(Outstanding_Amount; "Outstanding Amount")
+            {
+            }
+            column(Qty__Shipped_Not_Invoiced; "Qty. Shipped Not Invoiced")
+            {
+            }
+            column(Shipped_Not_Invoiced; "Shipped Not Invoiced")
+            {
+            }
+            column(Quantity_Shipped; "Quantity Shipped")
+            {
+            }
+            column(Quantity_Invoiced; "Quantity Invoiced")
+            {
+            }
+            column(Shipment_Date; "Shipment Date")
+            {
+            }
+            column(Line_Discount__; "Line Discount %")
+            {
+            }
+            column(Location_Code; "Location Code")
+            {
+            }
         }
     }
 }

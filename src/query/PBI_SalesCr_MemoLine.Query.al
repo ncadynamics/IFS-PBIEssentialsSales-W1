@@ -50,6 +50,12 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             column(Dimension_Set_ID; "Dimension Set ID")
             {
             }
+            column(Line_Discount__; "Line Discount %")
+            {
+            }
+            column(Location_Code; "Location Code")
+            {
+            }
         }
     }
 }

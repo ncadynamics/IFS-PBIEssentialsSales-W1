@@ -24,6 +24,18 @@ query 70272061 "NCA PBI_Sales Header"
             column(Order_Date; "Order Date")
             {
             }
+            column(Salesperson_Code; "Salesperson Code")
+            {
+            }
+            column(Requested_Delivery_Date; "Requested Delivery Date")
+            {
+            }
+            column(Document_Date; "Document Date")
+            {
+            }
+            column(Shipment_Date; "Shipment Date")
+            {
+            }
         }
     }
 }

@@ -23,6 +23,9 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             column(Document_Date; "Document Date")
             {
             }
+            column(Salesperson_Code; "Salesperson Code")
+            {
+            }
         }
     }
 }

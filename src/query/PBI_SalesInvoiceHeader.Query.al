@@ -26,6 +26,9 @@ query 70272066 "NCA PBI_Sales Invoice Header"
             column(Document_Date; "Document Date")
             {
             }
+            column(Salesperson_Code; "Salesperson Code")
+            {
+            }
         }
     }
 }

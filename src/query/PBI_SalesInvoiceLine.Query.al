@@ -50,6 +50,12 @@ query 70272065 "NCA PBI_Sales Invoice Line"
             column(Dimension_Set_ID; "Dimension Set ID")
             {
             }
+            column(Location_Code; "Location Code")
+            {
+            }
+            column(Line_Discount__; "Line Discount %")
+            {
+            }
         }
     }
 }
