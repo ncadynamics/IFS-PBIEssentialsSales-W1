@@ -9,7 +9,7 @@ query 70272053 "NCA PBI_Salesperson"
             column(Code; Code)
             {
             }
-            filter(Name; Name)
+            column(Name; Name)
             {
 
             }
