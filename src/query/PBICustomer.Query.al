@@ -28,7 +28,9 @@ query 70272074 "NCA PBI_Customer"
             column(County; County)
             {
             }
+            column(Customer_Disc__Group; "Customer Disc. Group")
+            {
+            }
         }
     }
 }
-

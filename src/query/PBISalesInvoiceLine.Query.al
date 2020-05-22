@@ -1,9 +1,9 @@
-query 70272067 "NCA PBI_Sales Cr_Memo Line"
+query 70272065 "NCA PBI_Sales Invoice Line"
 {
 
     elements
     {
-        dataitem(Sales_Cr_Memo_Line; "Sales Cr.Memo Line")
+        dataitem(Sales_Invoice_Line; "Sales Invoice Line")
         {
             column(Document_No; "Document No.")
             {
@@ -32,13 +32,13 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             column(Posting_Date; "Posting Date")
             {
             }
-            column(Quantity_Base; "Quantity (Base)")
-            {
-            }
             column(Unit_Cost_LCY; "Unit Cost (LCY)")
             {
             }
             column(Unit_Cost; "Unit Cost")
+            {
+            }
+            column(Quantity_Base; "Quantity (Base)")
             {
             }
             column(Unit_Price; "Unit Price")
@@ -50,11 +50,15 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             column(Dimension_Set_ID; "Dimension Set ID")
             {
             }
+            column(Location_Code; "Location Code")
+            {
+            }
             column(Line_Discount__; "Line Discount %")
             {
             }
-            column(Location_Code; "Location Code")
+            column(Inv__Discount_Amount; "Inv. Discount Amount")
             {
+
             }
         }
     }

@@ -36,6 +36,27 @@ query 70272061 "NCA PBI_Sales Header"
             column(Shipment_Date; "Shipment Date")
             {
             }
+            column(External_Document_No_; "External Document No.")
+            {
+            }
+            column(Assigned_User_ID; "Assigned User ID")
+            {
+            }
+            column(Ship; Ship)
+            {
+            }
+            column(Last_Shipping_No_; "Last Shipping No.")
+            {
+            }
+            column(Last_Posting_No_; "Last Posting No.")
+            {
+            }
+            column(Invoice; Invoice)
+            { }
+            column(Completely_Shipped; "Completely Shipped")
+            { }
+            column(Invoice_Discount_Amount; "Invoice Discount Amount")
+            { }
         }
     }
 }

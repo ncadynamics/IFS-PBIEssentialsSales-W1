@@ -20,7 +20,12 @@ query 70272064 "NCA PBI_Sales Shipment Header"
             column(Shortcut_Dimension_1_Code; "Shortcut Dimension 1 Code")
             {
             }
+            column(External_Document_No_; "External Document No.")
+            { }
+            column(User_ID; "User ID")
+            { }
+            column(Salesperson_Code; "Salesperson Code")
+            { }
         }
     }
 }
-

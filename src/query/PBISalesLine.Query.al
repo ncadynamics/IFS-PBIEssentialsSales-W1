@@ -66,6 +66,12 @@ query 70272060 "NCA PBI_Sales Line"
             column(Location_Code; "Location Code")
             {
             }
+            column(Shipped_Not_Inv___LCY__No_VAT; "Shipped Not Inv. (LCY) No VAT")
+            { }
+            column(Shipped_Not_Invoiced__LCY_; "Shipped Not Invoiced (LCY)")
+            { }
+            column(Inv__Discount_Amount; "Inv. Discount Amount")
+            { }
         }
     }
 }

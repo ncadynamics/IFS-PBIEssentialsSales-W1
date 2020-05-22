@@ -20,6 +20,12 @@ query 70272069 "NCA PBI_Return Receipt Header"
             column(Shortcut_Dimension_1_Code; "Shortcut Dimension 1 Code")
             {
             }
+            column(External_Document_No_; "External Document No.")
+            { }
+            column(User_ID; "User ID")
+            { }
+            column(Salesperson_Code; "Salesperson Code")
+            { }
         }
     }
 }

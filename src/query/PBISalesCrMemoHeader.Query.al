@@ -26,6 +26,15 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             column(Salesperson_Code; "Salesperson Code")
             {
             }
+            column(External_Document_No_; "External Document No.")
+            { }
+            column(User_ID; "User ID")
+            { }
+            column(Customer_Disc__Group; "Customer Disc. Group")
+            { }
+            column(Invoice_Discount_Amount; "Invoice Discount Amount")
+            { }
+
         }
     }
 }
