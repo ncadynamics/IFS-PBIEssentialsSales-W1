@@ -26,6 +26,8 @@ query 70272069 "NCA PBI_Return Receipt Header"
             { }
             column(Salesperson_Code; "Salesperson Code")
             { }
+            column(Location_Code; "Location Code")
+            { }
         }
     }
 }

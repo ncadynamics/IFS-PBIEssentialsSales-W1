@@ -58,7 +58,6 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             }
             column(Inv__Discount_Amount; "Inv. Discount Amount")
             {
-
             }
         }
     }

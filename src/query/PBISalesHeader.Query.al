@@ -57,6 +57,8 @@ query 70272061 "NCA PBI_Sales Header"
             { }
             column(Invoice_Discount_Amount; "Invoice Discount Amount")
             { }
+            column(Location_Code; "Location Code")
+            { }
         }
     }
 }

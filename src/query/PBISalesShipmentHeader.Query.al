@@ -26,6 +26,8 @@ query 70272064 "NCA PBI_Sales Shipment Header"
             { }
             column(Salesperson_Code; "Salesperson Code")
             { }
+            column(Location_Code; "Location Code")
+            { }
         }
     }
 }
