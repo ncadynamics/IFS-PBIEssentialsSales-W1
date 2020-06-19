@@ -72,6 +72,22 @@ query 70272060 "NCA PBI_Sales Line"
             { }
             column(Inv__Discount_Amount; "Inv. Discount Amount")
             { }
+            column(Requested_Delivery_Date; "Requested Delivery Date")
+            {
+
+            }
+            column(Package_Tracking_No_; "Package Tracking No.")
+            {
+
+            }
+            column(Planned_Shipment_Date; "Planned Shipment Date")
+            {
+
+            }
+            column(Completely_Shipped; "Completely Shipped")
+            {
+
+            }
         }
     }
 }

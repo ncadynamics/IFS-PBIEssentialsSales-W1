@@ -59,6 +59,22 @@ query 70272061 "NCA PBI_Sales Header"
             { }
             column(Location_Code; "Location Code")
             { }
+            column(SCB_Created_By; "SCB Created By")
+            {
+
+            }
+            column(Package_Tracking_No_; "Package Tracking No.")
+            {
+
+            }
+            column(Amount; Amount)
+            {
+
+            }
+            column(Amount_Including_VAT; "Amount Including VAT")
+            {
+
+            }
         }
     }
 }

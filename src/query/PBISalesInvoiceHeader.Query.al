@@ -41,6 +41,14 @@ query 70272066 "NCA PBI_Sales Invoice Header"
             }
             column(Location_Code; "Location Code")
             { }
+            column(Amount; Amount)
+            {
+
+            }
+            column(Amount_Including_VAT; "Amount Including VAT")
+            {
+
+            }
         }
     }
 }

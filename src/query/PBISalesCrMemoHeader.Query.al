@@ -36,6 +36,14 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             { }
             column(Location_Code; "Location Code")
             { }
+            column(Amount; Amount)
+            {
+
+            }
+            column(Amount_Including_VAT; "Amount Including VAT")
+            {
+
+            }
 
         }
     }

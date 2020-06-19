@@ -93,6 +93,18 @@
         </TenantWebService>
         <TenantWebService>
             <ObjectType>9</ObjectType>
+            <ServiceName>ProductionOrder</ServiceName>
+            <ObjectID>70272059</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>ProductionOrderLine</ServiceName>
+            <ObjectID>70272058</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
             <ServiceName>Dimension</ServiceName>
             <ObjectID>70272050</ObjectID>
             <Published>true</Published>
