@@ -88,6 +88,10 @@ query 70272060 "NCA PBI_Sales Line"
             {
 
             }
+            column(Gen__Prod__Posting_Group; "Gen. Prod. Posting Group")
+            {
+
+            }
         }
     }
 }

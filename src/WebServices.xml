@@ -127,5 +127,17 @@
             <ObjectID>70272053</ObjectID>
             <Published>true</Published>
         </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>ReservationEntry</ServiceName>
+            <ObjectID>70272054</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>Resource</ServiceName>
+            <ObjectID>70272055</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
     </TenantWebServiceCollection>
 </ExportedData>
