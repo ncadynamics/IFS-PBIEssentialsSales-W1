@@ -63,6 +63,14 @@ query 70272067 "NCA PBI_Sales Cr_Memo Line"
             {
 
             }
+            column(Line_Discount_Amount; "Line Discount Amount")
+            {
+
+            }
+            column(Line_Amount; "Line Amount")
+            {
+
+            }
         }
     }
 }
