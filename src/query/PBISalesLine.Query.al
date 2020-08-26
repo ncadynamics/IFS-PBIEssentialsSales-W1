@@ -92,6 +92,10 @@ query 70272060 "NCA PBI_Sales Line"
             {
 
             }
+            column(Line_Discount_Amount; "Line Discount Amount")
+            {
+
+            }
         }
     }
 }
