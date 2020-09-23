@@ -28,6 +28,22 @@ query 70272064 "NCA PBI_Sales Shipment Header"
             { }
             column(Location_Code; "Location Code")
             { }
+            column(Requested_Delivery_Date; "Requested Delivery Date")
+            {
+
+            }
+            column(Promised_Delivery_Date; "Promised Delivery Date")
+            {
+
+            }
+            column(Order_No_; "Order No.")
+            {
+
+            }
+            column(Order_Date; "Order Date")
+            {
+
+            }
         }
     }
 }

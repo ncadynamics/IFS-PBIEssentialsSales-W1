@@ -75,6 +75,10 @@ query 70272061 "NCA PBI_Sales Header"
             {
 
             }
+            column(Promised_Delivery_Date; "Promised Delivery Date")
+            {
+
+            }
         }
     }
 }

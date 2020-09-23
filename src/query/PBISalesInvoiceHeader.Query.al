@@ -49,6 +49,14 @@ query 70272066 "NCA PBI_Sales Invoice Header"
             {
 
             }
+            column(Order_No_; "Order No.")
+            {
+
+            }
+            column(Cancelled; Cancelled)
+            {
+
+            }
         }
     }
 }

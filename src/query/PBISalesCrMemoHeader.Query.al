@@ -44,6 +44,14 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             {
 
             }
+            column(Return_Order_No_; "Return Order No.")
+            {
+
+            }
+            column(Cancelled; Cancelled)
+            {
+
+            }
 
         }
     }

@@ -43,6 +43,10 @@ query 70272072 "NCA PBI_Item"
             {
 
             }
+            column(Indirect_Cost__; "Indirect Cost %")
+            {
+
+            }
         }
     }
 }

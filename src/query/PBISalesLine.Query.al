@@ -96,6 +96,18 @@ query 70272060 "NCA PBI_Sales Line"
             {
 
             }
+
+            column(Planned_Delivery_Date; "Planned Delivery Date")
+            {
+
+            }
+
+            column(Promised_Delivery_Date; "Promised Delivery Date")
+            {
+
+            }
+
+
         }
     }
 }
