@@ -86,6 +86,10 @@ query 70272059 "NCA Production Order"
             {
 
             }
+            column(Finished_Date; "Finished Date")
+            {
+
+            }
         }
     }
 
