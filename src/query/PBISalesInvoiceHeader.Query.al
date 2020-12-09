@@ -57,6 +57,10 @@ query 70272066 "NCA PBI_Sales Invoice Header"
             {
 
             }
+            column(Ship_to_Code; "Ship-to Code")
+            {
+
+            }
         }
     }
 }

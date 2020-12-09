@@ -4,7 +4,7 @@
   "publisher": "NCA Dynamics Inc",
   "brief": "Power BI Essentials – Sales - Out of the box sales analysis for Microsoft Dynamics 365 Business Central",
   "description": "Power BI Essentials – Sales provides advanced sales analytics within interactive visualizations, like: Yearly Report, Sales Analysis, Product Analysis YOY, Customer Analysis, Sales Analysis by Item",
-  "version": "1.0.0.13",
+  "version": "1.0.0.14",
   "privacyStatement": "https://www.ncadynamics.com/pbiessentials-policy",
   "EULA": "https://www.ncadynamics.com/pbiessentials-user-agreement",
   "help": "https://www.ncadynamics.com/pbiessentials-saleshelp",
@@ -19,8 +19,8 @@
     }
   ],
   "screenshots": [],
-  "platform": "16.0.0.0",
-  "application": "16.0.0.0",
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
   "idRanges": [{
     "from": 70272050,
     "to": 70272074
@@ -34,5 +34,5 @@
   "features": [
     "TranslationFile"
   ],
-  "runtime": "4.0"
+  "runtime": "6.0"
 }

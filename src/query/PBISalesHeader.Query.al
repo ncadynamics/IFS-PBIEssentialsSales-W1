@@ -79,6 +79,10 @@ query 70272061 "NCA PBI_Sales Header"
             {
 
             }
+            column(Ship_to_Code;"Ship-to Code")
+            {
+                
+            }
         }
     }
 }
