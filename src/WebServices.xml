@@ -139,5 +139,11 @@
             <ObjectID>70272055</ObjectID>
             <Published>true</Published>
         </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>ShiptoAddress</ServiceName>
+            <ObjectID>70272056</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
     </TenantWebServiceCollection>
 </ExportedData>

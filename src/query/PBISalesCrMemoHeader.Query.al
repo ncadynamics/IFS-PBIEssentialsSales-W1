@@ -56,6 +56,46 @@ query 70272068 "NCA PBI_Sales Cr_Memo Header"
             {
 
             }
+            column(Ship_to_Name; "Ship-to Name")
+            {
+
+            }
+            column(Ship_to_Name_2; "Ship-to Name 2")
+            {
+
+            }
+            column(Ship_to_Address; "Ship-to Address")
+            {
+
+            }
+            column(Ship_to_Address_2; "Ship-to Address 2")
+            {
+
+            }
+            column(Ship_to_City; "Ship-to City")
+            {
+
+            }
+            column(Ship_to_Post_Code; "Ship-to Post Code")
+            {
+
+            }
+            column(Ship_to_Country_Region_Code; "Ship-to Country/Region Code")
+            {
+
+            }
+            column(Ship_to_County; "Ship-to County")
+            {
+
+            }
+            column(Ship_to_Contact; "Ship-to Contact")
+            {
+
+            }
+            column(Ship_to_UPS_Zone; "Ship-to UPS Zone")
+            {
+
+            }
 
         }
     }
