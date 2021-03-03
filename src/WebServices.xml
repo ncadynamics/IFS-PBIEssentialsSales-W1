@@ -145,5 +145,17 @@
             <ObjectID>70272056</ObjectID>
             <Published>true</Published>
         </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_Users</ServiceName>
+            <ObjectID>70272057</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_GLBudgetEntry</ServiceName>
+            <ObjectID>70271850</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
     </TenantWebServiceCollection>
 </ExportedData>
