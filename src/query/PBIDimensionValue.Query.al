@@ -1,4 +1,4 @@
-query 70272073 "NCA PBI_Dimension Value"
+query 50301 "NCA PBI_Dimension Value"
 {
 
     elements

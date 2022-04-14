@@ -1,4 +1,4 @@
-query 70272070 "NCA PBI_Item UOM"
+query 50304 "NCA PBI_Item UOM"
 {
 
     elements

@@ -1,4 +1,4 @@
-query 70272065 "NCA PBI_Sales Invoice Line"
+query 50309 "NCA PBI_Sales Invoice Line"
 {
 
     elements

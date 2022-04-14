@@ -1,4 +1,4 @@
-query 70272050 "NCA PBI_Dimension"
+query 50324 "NCA PBI_Dimension"
 {
     QueryType = Normal;
 

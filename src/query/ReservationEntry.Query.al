@@ -1,4 +1,4 @@
-query 70272054 "NCA ReservationEntry"
+query 50320 "NCA ReservationEntry"
 {
     QueryType = Normal;
 

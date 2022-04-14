@@ -1,4 +1,4 @@
-query 70272057 "NCA Users"
+query 50317 "NCA Users"
 {
     QueryType = Normal;
 

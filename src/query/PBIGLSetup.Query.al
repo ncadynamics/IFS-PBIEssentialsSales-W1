@@ -1,4 +1,4 @@
-query 70272051 "NCA PBI_GLSetup"
+query 50323 "NCA PBI_GLSetup"
 {
     QueryType = Normal;
 

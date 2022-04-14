@@ -1,4 +1,4 @@
-query 70272056 "NCA Ship-to Address"
+query 50318 "NCA Ship-to Address"
 {
     QueryType = Normal;
 

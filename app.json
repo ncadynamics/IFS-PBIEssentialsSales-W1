@@ -1,10 +1,10 @@
 {
-  "id": "58bc50c3-ce13-4a97-b4f7-05471155afd6",
+  "id": "b62bdeea-83ec-4407-929f-de27ac67d555",
   "name": "IFS Power BI Essentials - Sales",
   "publisher": "NCA Dynamics Inc",
   "brief": "Power BI Essentials – Sales - Out of the box sales analysis for Microsoft Dynamics 365 Business Central",
   "description": "Power BI Essentials – Sales provides advanced sales analytics within interactive visualizations, like: Yearly Report, Sales Analysis, Product Analysis YOY, Customer Analysis, Sales Analysis by Item",
-  "version": "1.0.0.16",
+  "version": "19.0.0.1",
   "privacyStatement": "https://www.ncadynamics.com/pbiessentials-policy",
   "EULA": "https://www.ncadynamics.com/pbiessentials-user-agreement",
   "help": "https://www.ncadynamics.com/pbiessentials-saleshelp",
@@ -19,17 +19,12 @@
     }
   ],
   "screenshots": [],
-  "platform": "17.0.0.0",
-  "application": "17.0.0.0",
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
   "idRanges": [{
-    "from": 70272050,
-    "to": 70272074
-  },
-{
-  "from": 70271850,
-  "to": 70271899
-}],
-  "showMyCode": false,
+    "from": 50300,
+    "to": 50399
+  }],
   "target": "Cloud",
   "contextSensitiveHelpUrl": "https://www.ncadynamics.com/pbiessentials-saleshelp",
   "supportedLocales": [
@@ -38,5 +33,5 @@
   "features": [
     "TranslationFile"
   ],
-  "runtime": "6.0"
+  "runtime": "8.1"
 }

@@ -1,4 +1,4 @@
-query 70272061 "NCA PBI_Sales Header"
+query 50313 "NCA PBI_Sales Header"
 {
     QueryType = Normal;
 
@@ -79,9 +79,33 @@ query 70272061 "NCA PBI_Sales Header"
             {
 
             }
-            column(Ship_to_Code;"Ship-to Code")
+            column(Ship_to_Code; "Ship-to Code")
             {
-                
+
+            }
+            column(NCA_Notes; "NCA Notes")
+            {
+
+            }
+            column(NCA_New_Plan_Date; "NCA New Plan Date")
+            {
+
+            }
+            column(NCA_Cell_Region; "NCA Cell Region")
+            {
+
+            }
+            column(NCA_Estimated_Picking_Time; "NCA Estimated Picking Time")
+            {
+
+            }
+            column(NCA_Estimated_Ops_Time; "NCA Estimated Ops Time")
+            {
+
+            }
+            column(NCA_Reason_Code; "NCA Reason Code")
+            {
+
             }
         }
     }

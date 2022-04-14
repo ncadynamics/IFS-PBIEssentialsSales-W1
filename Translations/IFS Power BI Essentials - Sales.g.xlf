@@ -2,7 +2,48 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="IFS Power BI Essentials - Sales">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="PageExtension 1258624566 - Control 4266947076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>IFS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NCA Sales Order - Control NCA IFS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 3322923214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Cell Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Cell Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 2565736729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Estimated Ops Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Estimated Ops Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 3575708454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Estimated Picking Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Estimated Picking Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 2449266481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>New Plan Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA New Plan Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 1992270481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 425304831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Owner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3545415453 - Field 1410113055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Reason Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NCA Sales Header - Field NCA Reason Code - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>

@@ -1,4 +1,4 @@
-query 70271850 "NCA G/L Budget Entry"
+query 50325 "NCA G/L Budget Entry"
 {
     QueryType = Normal;
 

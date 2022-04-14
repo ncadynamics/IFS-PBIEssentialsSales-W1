@@ -1,4 +1,4 @@
-query 70272064 "NCA PBI_Sales Shipment Header"
+query 50310 "NCA PBI_Sales Shipment Header"
 {
 
     elements

@@ -1,4 +1,4 @@
-query 70272055 "NCA Resource"
+query 50319 "NCA Resource"
 {
     QueryType = Normal;
 

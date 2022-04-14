@@ -1,4 +1,4 @@
-query 70272067 "NCA PBI_Sales Cr_Memo Line"
+query 50307 "NCA PBI_Sales Cr_Memo Line"
 {
 
     elements

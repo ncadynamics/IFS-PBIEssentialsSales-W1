@@ -1,4 +1,4 @@
-query 70272060 "NCA PBI_Sales Line"
+query 50314 "NCA PBI_Sales Line"
 {
     QueryType = Normal;
 

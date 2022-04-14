@@ -1,4 +1,4 @@
-query 70272069 "NCA PBI_Return Receipt Header"
+query 50305 "NCA PBI_Return Receipt Header"
 {
 
     elements

@@ -1,4 +1,4 @@
-query 70272053 "NCA PBI_Salesperson"
+query 50321 "NCA PBI_Salesperson"
 {
     QueryType = Normal;
 
