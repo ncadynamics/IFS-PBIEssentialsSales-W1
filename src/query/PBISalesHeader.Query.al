@@ -107,6 +107,11 @@ query 50313 "NCA PBI_Sales Header"
             {
 
             }
+            column(NCA_Owner; "NCA Owner")
+            {
+
+            }
+            
         }
     }
 }
