@@ -79,35 +79,6 @@ query 50313 "NCA PBI_Sales Header"
             {
 
             }
-            column(NCA_Notes; "NCA Notes")
-            {
-
-            }
-            column(NCA_New_Plan_Date; "NCA New Plan Date")
-            {
-
-            }
-            column(NCA_Cell_Region; "NCA Cell Region")
-            {
-
-            }
-            column(NCA_Estimated_Picking_Time; "NCA Estimated Picking Time")
-            {
-
-            }
-            column(NCA_Estimated_Ops_Time; "NCA Estimated Ops Time")
-            {
-
-            }
-            column(NCA_Reason_Code; "NCA Reason Code")
-            {
-
-            }
-            column(NCA_Owner; "NCA Owner")
-            {
-
-            }
-
         }
     }
 }
