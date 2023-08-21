@@ -59,6 +59,10 @@ query 50313 "NCA PBI_Sales Header"
             { }
             column(Location_Code; "Location Code")
             { }
+            column(SCB_Created_By; "SCB Created By")
+            {
+
+            }
             column(Package_Tracking_No_; "Package Tracking No.")
             {
 
