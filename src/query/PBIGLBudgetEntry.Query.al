@@ -1,6 +1,7 @@
-query 50325 "NCA G/L Budget Entry"
+query 50325 "NCA PBI_G/L Budget Entry"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {
@@ -14,7 +15,7 @@ query 50325 "NCA G/L Budget Entry"
             {
 
             }
-            column(Date; Date)
+            column("Date"; Date)
             {
 
             }

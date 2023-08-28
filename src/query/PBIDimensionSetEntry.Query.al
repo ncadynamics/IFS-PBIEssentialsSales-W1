@@ -1,7 +1,7 @@
 query 50312 "NCA PBI_Dimension Set Entry"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Dimension_Set_Entry; "Dimension Set Entry")

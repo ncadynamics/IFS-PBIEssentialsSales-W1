@@ -1,6 +1,7 @@
-query 50317 "NCA Users"
+query 50317 "NCA PBI_Users"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {

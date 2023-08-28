@@ -1,6 +1,7 @@
 query 50310 "NCA PBI_Sales Shipment Header"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Shipment_Header; "Sales Shipment Header")
@@ -43,6 +44,12 @@ query 50310 "NCA PBI_Sales Shipment Header"
             column(Order_Date; "Order Date")
             {
 
+            }
+            column(CurrencyCode; "Currency Code")
+            {
+            }
+            column(CurrencyFactor; "Currency Factor")
+            {
             }
         }
     }

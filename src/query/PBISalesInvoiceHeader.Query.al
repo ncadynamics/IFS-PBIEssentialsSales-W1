@@ -1,6 +1,7 @@
 query 50308 "NCA PBI_Sales Invoice Header"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Invoice_Header; "Sales Invoice Header")
@@ -96,6 +97,16 @@ query 50308 "NCA PBI_Sales Invoice Header"
             column(Ship_to_Contact; "Ship-to Contact")
             {
 
+            }
+            column(Ship_to_UPS_Zone; "Ship-to UPS Zone")
+            {
+
+            }
+            column(CurrencyCode; "Currency Code")
+            {
+            }
+            column(CurrencyFactor; "Currency Factor")
+            {
             }
         }
     }

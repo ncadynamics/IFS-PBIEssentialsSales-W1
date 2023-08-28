@@ -1,7 +1,7 @@
-query 50320 "NCA ReservationEntry"
+query 50320 "NCA PBI_ReservationEntry"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Reservation_Entry; "Reservation Entry")

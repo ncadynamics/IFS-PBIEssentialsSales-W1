@@ -1,5 +1,7 @@
 query 50300 "NCA PBI_Customer"
 {
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Customer; Customer)

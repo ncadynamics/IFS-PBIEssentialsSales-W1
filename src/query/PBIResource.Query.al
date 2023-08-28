@@ -1,6 +1,7 @@
-query 50319 "NCA Resource"
+query 50319 "NCA PBI_Resource"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {

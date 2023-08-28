@@ -1,6 +1,7 @@
 query 50302 "NCA PBI_Item"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Item; Item)

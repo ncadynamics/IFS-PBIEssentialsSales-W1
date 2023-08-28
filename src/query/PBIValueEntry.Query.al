@@ -1,6 +1,7 @@
 query 50311 "NCA PBI_Value Entry"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Value_Entry; "Value Entry")
@@ -73,6 +74,25 @@ query 50311 "NCA PBI_Value Entry"
             }
             column(Cost_Amount_Non_Invtbl; "Cost Amount (Non-Invtbl.)")
             {
+            }
+            column(Sales_Amount__Actual_; "Sales Amount (Actual)")
+            {
+            }
+
+            column(Gen__Bus__Posting_Group; "Gen. Bus. Posting Group")
+            {
+            }
+            column(Gen__Prod__Posting_Group; "Gen. Prod. Posting Group")
+            {
+
+            }
+            column(Cost_Amount__Expected_; "Cost Amount (Expected)")
+            {
+
+            }
+            column(Dimension_Set_ID; "Dimension Set ID")
+            {
+
             }
         }
     }

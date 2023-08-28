@@ -1,7 +1,7 @@
 query 50323 "NCA PBI_GLSetup"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(General_Ledger_Setup; "General Ledger Setup")

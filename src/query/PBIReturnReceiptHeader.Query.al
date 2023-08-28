@@ -1,6 +1,7 @@
 query 50305 "NCA PBI_Return Receipt Header"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Return_Receipt_Header; "Return Receipt Header")
@@ -28,6 +29,12 @@ query 50305 "NCA PBI_Return Receipt Header"
             { }
             column(Location_Code; "Location Code")
             { }
+            column(CurrencyCode; "Currency Code")
+            {
+            }
+            column(CurrencyFactor; "Currency Factor")
+            {
+            }
         }
     }
 }

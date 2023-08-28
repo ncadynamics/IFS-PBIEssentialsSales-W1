@@ -1,20 +1,13 @@
-query 50316 "NCA Production Order Line"
+query 50315 "NCA PBI_Production Order"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {
-        dataitem(Prod__Order_Line; "Prod. Order Line")
+        dataitem(DataItemName; "Production Order")
         {
-            column(Status; Status)
-            {
-
-            }
-            column(Prod__Order_No_; "Prod. Order No.")
-            {
-
-            }
-            column(Item_No_; "Item No.")
+            column(No_; "No.")
             {
 
             }
@@ -26,11 +19,31 @@ query 50316 "NCA Production Order Line"
             {
 
             }
+            column(Source_Type; "Source Type")
+            {
+
+            }
+            column(Source_No_; "Source No.")
+            {
+
+            }
+            column(Search_Description; "Search Description")
+            {
+
+            }
             column(Quantity; Quantity)
             {
 
             }
             column(Due_Date; "Due Date")
+            {
+
+            }
+            column(Assigned_User_ID; "Assigned User ID")
+            {
+
+            }
+            column(Last_Date_Modified; "Last Date Modified")
             {
 
             }
@@ -43,6 +56,14 @@ query 50316 "NCA Production Order Line"
 
             }
             column(Inventory_Posting_Group; "Inventory Posting Group")
+            {
+
+            }
+            column(Gen__Prod__Posting_Group; "Gen. Prod. Posting Group")
+            {
+
+            }
+            column(Gen__Bus__Posting_Group; "Gen. Bus. Posting Group")
             {
 
             }
@@ -62,6 +83,15 @@ query 50316 "NCA Production Order Line"
             {
 
             }
+            column(Status; Status)
+            {
+
+            }
+            column(Finished_Date; "Finished Date")
+            {
+
+            }
         }
     }
+
 }

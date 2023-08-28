@@ -1,7 +1,7 @@
 query 50322 "NCA PBI_DefaultDimension"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Default_Dimension; "Default Dimension")

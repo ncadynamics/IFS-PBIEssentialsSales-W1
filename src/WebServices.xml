@@ -157,5 +157,41 @@
             <ObjectID>50325</ObjectID>
             <Published>true</Published>
         </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_ItemApplEntry</ServiceName>
+            <ObjectID>50326</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_ItemLedgEntry</ServiceName>
+            <ObjectID>50327</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_SalesShptLine</ServiceName>
+            <ObjectID>50329</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_CustLedgEntry</ServiceName>
+            <ObjectID>50330</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_DetCustLedgEntry</ServiceName>
+            <ObjectID>50331</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+         <TenantWebService>
+            <ObjectType>9</ObjectType>
+            <ServiceName>NCAPBISales_CurrExchRate</ServiceName>
+            <ObjectID>50332</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
     </TenantWebServiceCollection>
 </ExportedData>

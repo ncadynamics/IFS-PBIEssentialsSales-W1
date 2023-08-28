@@ -1,6 +1,7 @@
 query 50306 "NCA PBI_Sales Cr_Memo Header"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Cr_Memo_Header; "Sales Cr.Memo Header")
@@ -91,6 +92,16 @@ query 50306 "NCA PBI_Sales Cr_Memo Header"
             column(Ship_to_Contact; "Ship-to Contact")
             {
 
+            }
+            column(Ship_to_UPS_Zone; "Ship-to UPS Zone")
+            {
+
+            }
+            column(CurrencyCode; "Currency Code")
+            {
+            }
+            column(CurrencyFactor; "Currency Factor")
+            {
             }
 
         }

@@ -1,7 +1,7 @@
 query 50313 "NCA PBI_Sales Header"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Header; "Sales Header")
@@ -83,6 +83,13 @@ query 50313 "NCA PBI_Sales Header"
             {
 
             }
+            column(CurrencyCode; "Currency Code")
+            {
+            }
+            column(CurrencyFactor; "Currency Factor")
+            {
+            }
+
         }
     }
 }

@@ -1,6 +1,7 @@
-query 50318 "NCA Ship-to Address"
+query 50318 "NCA PBI_Ship-to Address"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {
@@ -10,7 +11,7 @@ query 50318 "NCA Ship-to Address"
             {
 
             }
-            column(Code; Code)
+            column("Code"; Code)
             {
 
             }

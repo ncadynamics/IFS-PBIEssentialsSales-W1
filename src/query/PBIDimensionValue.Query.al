@@ -1,6 +1,7 @@
 query 50301 "NCA PBI_Dimension Value"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Dimension_Value; "Dimension Value")

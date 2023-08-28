@@ -1,6 +1,7 @@
 query 50309 "NCA PBI_Sales Invoice Line"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Invoice_Line; "Sales Invoice Line")

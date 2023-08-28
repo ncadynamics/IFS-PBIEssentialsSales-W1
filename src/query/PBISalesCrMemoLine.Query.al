@@ -1,6 +1,7 @@
 query 50307 "NCA PBI_Sales Cr_Memo Line"
 {
-
+    QueryType = Normal;
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Cr_Memo_Line; "Sales Cr.Memo Line")

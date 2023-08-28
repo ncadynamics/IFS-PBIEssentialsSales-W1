@@ -1,6 +1,7 @@
 query 50321 "NCA PBI_Salesperson"
 {
     QueryType = Normal;
+    DataAccessIntent = ReadOnly;
 
     elements
     {

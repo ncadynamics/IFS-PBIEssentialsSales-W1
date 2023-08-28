@@ -1,7 +1,7 @@
 query 50314 "NCA PBI_Sales Line"
 {
     QueryType = Normal;
-
+    DataAccessIntent = ReadOnly;
     elements
     {
         dataitem(Sales_Line; "Sales Line")
@@ -76,6 +76,10 @@ query 50314 "NCA PBI_Sales Line"
             {
 
             }
+            column(Package_Tracking_No_; "Package Tracking No.")
+            {
+
+            }
             column(Planned_Shipment_Date; "Planned Shipment Date")
             {
 
@@ -102,6 +106,7 @@ query 50314 "NCA PBI_Sales Line"
             {
 
             }
+
 
         }
     }
