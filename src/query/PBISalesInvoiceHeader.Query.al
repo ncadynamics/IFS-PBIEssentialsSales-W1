@@ -98,10 +98,6 @@ query 50308 "NCA PBI_Sales Invoice Header"
             {
 
             }
-            column(Ship_to_UPS_Zone; "Ship-to UPS Zone")
-            {
-
-            }
             column(CurrencyCode; "Currency Code")
             {
             }

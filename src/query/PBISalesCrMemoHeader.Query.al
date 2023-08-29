@@ -93,10 +93,6 @@ query 50306 "NCA PBI_Sales Cr_Memo Header"
             {
 
             }
-            column(Ship_to_UPS_Zone; "Ship-to UPS Zone")
-            {
-
-            }
             column(CurrencyCode; "Currency Code")
             {
             }
